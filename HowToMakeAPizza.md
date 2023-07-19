@@ -4,4 +4,3 @@ delantas antifluidos
 botas plasticas
 guantes de carnaza
 guantes anti cortadas
-tapa bocas
