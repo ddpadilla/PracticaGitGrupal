@@ -1,8 +1,6 @@
-gorro
-guantes de latex
-guantes de carnaza
-botas plasticas
-delantal antifluidos
-gafas 
-tapa bocas industrial
-guantes contra cortaduras
+Sucursales
+sucursal casa matriz 
+sucursal san miguel
+sucursal cuernavaca 
+sucursal caracas
+sucursal los angeles
