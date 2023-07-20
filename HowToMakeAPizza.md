@@ -1,3 +1,9 @@
+guantes
+gafas
+delantas antifluidos
+botas plasticas
+guantes de carnaza
+guantes anti cortadas
 Ingredientes para hacer una pizza:
 1. 1 kilogramo de harina
 2. 1 cucharadita de sal fina
