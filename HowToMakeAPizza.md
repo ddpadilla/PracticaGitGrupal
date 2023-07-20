@@ -10,9 +10,4 @@ Ingredientes para hacer una pizza:
 10. Cebolla mediana
 11. Pimenton mediano
 12. Oregano
-Sucursales
-sucursal casa matriz 
-sucursal san miguel
-sucursal cuernavaca 
-sucursal caracas
-sucursal los angeles
+
