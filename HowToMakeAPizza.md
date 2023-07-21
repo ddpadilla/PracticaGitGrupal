@@ -47,3 +47,9 @@ Fermentadoras
 Formadoras de pizza
 Hornos pizzeros
 Laminadoras de pizza
+Sucursales 
+Sucursal san miguel 
+sucursal santa rosa
+sucursal los angeles 
+sucursal cuernava 
+sucursal bolivia
